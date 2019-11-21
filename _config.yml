@@ -4,8 +4,8 @@
 ####################################
 #
 title:  MARCUS TAN
-email:
-description: A simple and awesome blog theme powered by jekyll.
+email: marcus@mtss.dev
+description: A portfolio website using Jekyll.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
